@@ -39,6 +39,10 @@ dependencies:
   bloc: ^8.1.4
   google_fonts: ^6.2.1
   http: ^1.2.2
+  cached_network_image: ^3.4.1
+  youtube_player_flutter: ^9.1.1
+  vimeo_video_player: ^0.0.16
+  wakelock_plus: ^1.2.8
 
 dev_dependencies:
   flutter_test:
